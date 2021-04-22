@@ -1,3 +1,46 @@
 #cabecera{
-    
+    padding: 10px;
+    background: aquamarine;
+    font-size 10px;
+}
+.destacado{
+
+}
+.pa1{
+    padding: 10px;
+    font-size 20px;
+    color:rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pa2{
+    margin: 20px;
+    border: 20px;
+    font-size 30px;
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.foto1{
+    margin: 15px;
+    background: coral;
+    width: 600px;
+    padding: auto;
+    border:coral;
+}
+.foto2{
+    margin: 15px;
+    background:rgb(235, 107, 126);
+    padding: auto;
+    border:rgb(226, 80, 255);
+    width: 600px;
+}
+
+.pa3{
+    padding: 10px;
+    background: rgb(97, 202, 235);
+    font-size 15px;
+}
+.pa4{
+    padding: 10px;
+    background: rgb(238, 235, 48);
+    font-size 15px;
 }
